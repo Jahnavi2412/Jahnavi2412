@@ -5,7 +5,8 @@ applications. Focused on building clear, functional solutions with an emphasis o
 maintainability, and continuous learning.
 
 ## Technical Skills
-- Languages: C++, Python, Data Science and Machine Learning
+- Languages: C++, Python
+- Areas: Data Science and Machine Learning
 - Tools: Git, GitHub
 - Areas: Application development, basic automation, problem solving
 
